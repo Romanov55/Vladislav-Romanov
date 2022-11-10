@@ -1,23 +1,18 @@
-Привет. Я Влад и я хочу стать программистом.)
+Hello. I'm Vlad and currently I'm studying at the Frontend developer courses at: https://ru.hexlet.io, in addition you can find my ready-made projects on GitHub;
 
-Моё образование: 
-Среднее специальное, в Омском колледже транспортного строительства по профессии - Техник;
+I graduated from the Omsk College of Transport Construction and my qualification was - Technician.
+Then I worked as Commodity operator at “Gazprom Neft Lubricants” LLC from 2021 to 2022 and also as an operator for the preparation of raw materials and the release of semi-finished products and products at JSC “Omsky Kauchuk” 2019 - 2021.
 
-В данный момент активно обучаюсь на курсах Фронтенд разрабработчка в: 
-https://ru.hexlet.io/my. Есть готовые проекты на GitHub;
+Despite that my education and occupation were connected with the oil and gas industry, but i`ve always dreamt that one day I will work in the IT field.
 
-Опыт работы пока к сожалению не связан с IT:
-Оператор в "Копицентр" 2022 - сейчас
-Оператор товарный в ООО "Газпром-нефть смазочные материалы" 2021 - 2022
-Аппаратчик подготовки сырья и отпуска полуфабрикатов и продукции в АО "Омский каучук" 2019 - 2021
+At the moment I am actively studying and developing new skills and knowledges and I work with JavaScript, GitHub, HTML, CSS;
 
-Работаю с JavaScript, GitHub, HTML, CSS;
+Moreover i currently live in the Rudny city, Kostanay region, Kazakhstan;
+I am looking for a job and ready to relocate or work online;
 
-Живу в данный момент в городе Рудный Костанайской области, Казахстан;
+In conclusion I've always had this craving for the profession of a developer and now I think that the time has come.
 
-Активно ищу работу.
-Готов к переезду или работе онлайн;
-
-Всю жизнь тянуло к профессии разработчика, сейчас решил что время пришло.
-
+Email - Romanov20let@gmail.com
 LinkedIn - https://www.linkedin.com/in/vladislav-romanov-4a0361254/
+Hexlet - https://ru.hexlet.io
+Telegram - @romanty123
