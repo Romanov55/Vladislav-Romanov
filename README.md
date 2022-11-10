@@ -12,7 +12,7 @@ I am looking for a job and ready to relocate or work online;
 
 In conclusion I've always had this craving for the profession of a developer and now I think that the time has come.
 
-Email - Romanov20let@gmail.com/n
+Email - Romanov20let@gmail.com
 LinkedIn - https://www.linkedin.com/in/vladislav-romanov-4a0361254/
 Hexlet - https://ru.hexlet.io
 Telegram - @romanty123
